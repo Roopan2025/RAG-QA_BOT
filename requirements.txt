@@ -1,0 +1,14 @@
+langchain-huggingface
+langchain-chroma
+langchain-groq
+langchain-pymupdf4llm
+langgraph
+sentence-transformer
+pypdf
+chromadb
+dotenv
+streamlit
+pandas
+
+
+
