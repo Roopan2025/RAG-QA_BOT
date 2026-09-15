@@ -260,7 +260,7 @@ uv --version
 ## 📥 Clone the Repository
 
 ```bash
-git clone <F85EB53C24A0D469DCC4BCD5ABF04272>
+git clone <https://github.com/Roopan2025/RAG-QA_BOT>
 ```
 
 Move into the project directory:
