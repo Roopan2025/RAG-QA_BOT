@@ -260,7 +260,7 @@ uv --version
 ## 📥 Clone the Repository
 
 ```bash
-git clone <your-github-repository-url>
+git clone <>
 ```
 
 Move into the project directory:
